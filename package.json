@@ -11,8 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/bcryptjs": "^2.4.2",
     "@types/mongoose": "^5.11.97",
     "@types/validator": "^13.7.2",
+    "bcryptjs": "^2.4.3",
     "express": "^4.18.1",
     "mongodb": "^4.5.0",
     "mongoose": "^6.3.3",
